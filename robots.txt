@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luka2454.github.io/Masaze-Vlada/sitemap.xml
